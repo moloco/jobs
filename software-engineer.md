@@ -22,4 +22,4 @@ Moloco is an engineering company founded by software engineers. We understand th
 * We believe in people managing their own career growth and support self-improvement. We learn from each other and help each other grow.
 
 ## How to Apply
-We only accept LinkedIn profiles for application. Please apply at https://www.linkedin.com/jobs/view/254663224.
+We prefer to accept LinkedIn profiles for application. Please apply at https://www.linkedin.com/jobs/view/254663224 or send an email to hiring@molocoads.com with your resume.
