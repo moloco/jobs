@@ -1,8 +1,6 @@
 # SALES/ACCOUNT MANAGER (KOREA)
 Moloco is a marketing technology company that is growing rapidly. We are helping companies market their mobile apps through our programmatic solution that utilizes data mining, lookalike targeting and machine learning optimization. We are looking for senior/junior of Sales to successfully obtain new advertiser clients.
 
-# Job Description
-
 ## What you'll do:
 * Sales cycle responsibilities from lead generation, outreach, communication of value proposition, negotiation and winning the business through a consultative approach.
 * Ascertain and fully comprehend advertiser marketing goals to effectively communicate how our programmatic solution will help them achieve their goals.
@@ -22,4 +20,7 @@ Moloco is a marketing technology company that is growing rapidly. We are helping
 * Critical thinking, curiosity for online advertising and passionate about winning.
 * Self starter with the ability to work autonomously.
 
+## How to apply:
 The right person will be able to make a huge impact within an ambitious growing company. Come join our team and leverage our technology to help companies grow their business.
+
+You can apply by sending your resume to hiring@molocoads.com.
