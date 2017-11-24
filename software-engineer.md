@@ -4,7 +4,7 @@ Moloco seeks exceptional software engineers to join us in building a state-of-th
 Moloco is an engineering company founded by software engineers. We understand the value of a strong engineering team and strive to hire only the best software engineers as seen [here](http://www.molocoads.com/#team). While tackling challenging real-world problems, you will make positive impact to millions of mobile users in the world and grow with top-notch colleagues. Check out our case study published by Google [https://cloud.google.com/customers/moloco/](https://cloud.google.com/customers/moloco/).
 
 ## What You Will Do
-* Customer Facing: Design and implement server APIs, mobile SDKs, and web services for customers and partners.
+* End-User Product: Design and implement server APIs, mobile SDKs, and web services for customers and partners.
 * Large-Scale Server: Write server-side code that handles millions of requests per second. Current stack consists of proprietary code in Golang as well as Google Cloud Products including Bigtable and BigQuery.
 * Data Platform: Construct streamlined platforms to enhance big data processing and machine learning pipelines. Current stack employs Google Cloud Products including  Dataflow and Bigtable.
 * Machine Learning: Design and build ML models that utilize cutting-edge techniques and tools. Current stack uses Google Tensorflow and Python scikit-learn framework.
