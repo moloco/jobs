@@ -31,4 +31,4 @@ Interns will be involved in daily operations and data analysis of ads campaigns.
 * Compensation: competitive salary
  
 ## Application
-Please apply at https://careers.jobscore.com/apply_flow/applications/go?job_id=bFpOF8s_Kr56d4dG1ZS6tF
+Please apply by sending your resume to hiring@molocoads.com
