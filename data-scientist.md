@@ -15,6 +15,7 @@ Data scientists at Moloco are generally in charge of finding gems from the delug
 ## Qualifications
 * Strong analytical and problem-solving skills required.
 * Great communication skills required, fluency in English preferred.
+* Bachelor's degree in data science related field required, Master's degree preferred and PhD welcomed.
 * Industrial Engineering, Statistics, Economics and Computer Science majors preferred.
 * Experience in SQL or other data analytics language preferred.
 * Programming experience with any language preferred.
