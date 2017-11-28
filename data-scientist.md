@@ -18,6 +18,7 @@ Data scientists at Moloco are generally in charge of finding gems from the delug
 * Bachelor's degree in data science related field required, Master's degree preferred and PhD welcomed.
 * Industrial Engineering, Statistics, Economics and Computer Science majors preferred.
 * Experience in SQL or other data analytics language preferred.
+* Knowledge in statistical machine learning models preferred.
 * Programming experience with any language preferred.
 * Ability to multi-task and manage multiple projects at a time while paying attention to detail.
 * Fast learner and self-initiative personality.
