@@ -4,3 +4,4 @@
 * [Web Developer](web-developer.md)
 * [Data Scientist](data-scientist.md)
 * [Account Manager](account-manager.md)
+* [Product Manager](product-manager.md)
